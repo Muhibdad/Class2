@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           MUHIB first react app.
+          Second Line
         </p>
       </header>
     </div>
